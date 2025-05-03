@@ -8,7 +8,7 @@ A smart web-based system that recommends SHL assessments based on natural langua
 
 ## 🌐 Live Links
 
-- 💻 **Frontend App**: [https://shl-assessment-recomm.vercel.app](https://shl-assessment-recomm.vercel.app)
+- 💻 **Frontend App**: [https://shl-recommendation-system-4b7i71ru6-shibu-kumaris-projects.vercel.app/]
 - 📱 **API Endpoint**: [https://shl-recommendation-engine-hnys.onrender.com/recommend](https://shl-recommendation-engine-hnys.onrender.com/recommend)
 
 ---
@@ -57,11 +57,11 @@ A smart web-based system that recommends SHL assessments based on natural langua
 
 ### 1️⃣ Frontend (Web UI)
 
-- Open the [frontend site](https://shl-assessment-recomm.vercel.app)
+- Open the [frontend site](https://shl-recommendation-system-4b7i71ru6-shibu-kumaris-projects.vercel.app/)
 - Enter a prompt
 - Set how many assessments to recommend (1–20)
 - Click "Recommend" and view clean results in a table
-- frontend source code : https://github.com/scopophobic/SHL_assessment_recomm
+- frontend source code : https://github.com/shibujaiswal15/SHL-Recommendation-System
 
 ### 2️⃣ API Endpoint (POST)
 
