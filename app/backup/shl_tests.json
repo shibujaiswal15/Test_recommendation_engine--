@@ -1,0 +1,4199 @@
+[
+  {
+    "s_no": 1,
+    "name": "Global Skills Development Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 2,
+    "name": ".NET Framework 4.5",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 3,
+    "name": ".NET MVC (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 4,
+    "name": ".NET MVVM (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 5,
+    "name": ".NET WCF (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 6,
+    "name": ".NET WPF (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 7,
+    "name": ".NET XAML (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 8,
+    "name": "Accounts Payable (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 9,
+    "name": "Accounts Payable Simulation (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 10,
+    "name": "Accounts Receivable (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 11,
+    "name": "Accounts Receivable Simulation (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 12,
+    "name": "ADO.NET (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 13,
+    "name": "Adobe Experience Manager (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 14,
+    "name": "Adobe Photoshop CC",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 15,
+    "name": "Aeronautical Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 16,
+    "name": "Aerospace Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 17,
+    "name": "Agile Software Development",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 18,
+    "name": "Agile Testing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 19,
+    "name": "AI Skills",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 20,
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 21,
+    "name": "Android Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 22,
+    "name": "Angular 6 (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 23,
+    "name": "AngularJS (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 24,
+    "name": "Apache Hadoop (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 25,
+    "name": "COBOL Programming (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 26,
+    "name": "Computer Science (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 27,
+    "name": "Contact Center Call Simulation (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 28,
+    "name": "Conversational Multichat Simulation",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 29,
+    "name": "Core Java (Advanced Level) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 30,
+    "name": "Core Java (Entry Level) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 31,
+    "name": "Count Out The Money",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 32,
+    "name": "CSS3 (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 33,
+    "name": "Culinary Skills (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 34,
+    "name": "Customer Service Phone Simulation",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 35,
+    "name": "Customer Service Phone Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "P",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 36,
+    "name": "Cyber Risk (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 37,
+    "name": "Executive Scenarios Profile Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-profile-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 38,
+    "name": "ExpressJS (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 39,
+    "name": "Filing - Names (R1)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/filing-names-r1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 40,
+    "name": "Filing - Numbers",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/filing-numbers/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 41,
+    "name": "Financial Accounting (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 42,
+    "name": "Financial and Banking Services (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/financial-and-banking-services-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 43,
+    "name": "Fire Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/fire-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 44,
+    "name": "Following Instructions v1 - UK (R1)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 45,
+    "name": "Following Instructions v1 - US (R2)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 46,
+    "name": "Food and Beverage Services (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/food-and-beverage-services-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 47,
+    "name": "Food Science (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/food-science-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 48,
+    "name": "Front Office Management (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/front-office-management-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 49,
+    "name": "MQ Profile",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mq-profile/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 50,
+    "name": "MS Access (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ms-access-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 51,
+    "name": "MS Excel (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 52,
+    "name": "MS Office Basic Computer Literacy (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 53,
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 54,
+    "name": "MS PowerPoint (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ms-powerpoint-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 55,
+    "name": "MS Word (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 56,
+    "name": "MuleSoft Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mulesoft-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 57,
+    "name": "Multitasking Ability",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/multitasking-ability/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "K",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 58,
+    "name": "Networking and Implementation (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/networking-and-implementation-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 59,
+    "name": "Node.js (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/node-js-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 60,
+    "name": "Nursing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/nursing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 61,
+    "name": "Pharmaceutical Chemistry (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 62,
+    "name": "Pharmaceutical Science (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 63,
+    "name": "Pharmaceutics (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 64,
+    "name": "Pharmacology (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 65,
+    "name": "PHP (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 66,
+    "name": "PJM Development Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "A",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 67,
+    "name": "PJM Selection Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 68,
+    "name": "Polymer Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 69,
+    "name": "Power Electronics and Drives (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 70,
+    "name": "Power System Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 71,
+    "name": "Prism (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/prism-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 72,
+    "name": "Production and Industrial Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 73,
+    "name": "Production Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 74,
+    "name": "Programming Concepts",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 75,
+    "name": "Project Management (2013)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 76,
+    "name": "Proofreading v1",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 77,
+    "name": "Python (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 78,
+    "name": "R Programming (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 79,
+    "name": "ReactJS (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 80,
+    "name": "Reading Comprehension - English v1",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 81,
+    "name": "Reading Comprehension - Spanish v1",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 82,
+    "name": "Reading Comprehension v2",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 83,
+    "name": "RemoteWorkQ",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 84,
+    "name": "RemoteWorkQ Manager Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 85,
+    "name": "Social Media (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/social-media-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 86,
+    "name": "Software Business Analysis",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/software-business-analysis/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 87,
+    "name": "SonarQube (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sonarqube-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 88,
+    "name": "Spelling (U.S.) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/spelling-u-s-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 89,
+    "name": "Split Screen Typing Test - Form 1",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 90,
+    "name": "Spring (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 91,
+    "name": "SQL (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 92,
+    "name": "SQL Server (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 93,
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 94,
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 95,
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 96,
+    "name": "Statistical Analysis System (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/statistical-analysis-system-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 97,
+    "name": "Verify Interactive Process Monitoring",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 98,
+    "name": "Virtual Assessment and Development Centers",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 99,
+    "name": "Visual Basic for Applications (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/visual-basic-for-applications-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 100,
+    "name": "Visual Comparison - UK",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-uk/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 101,
+    "name": "Visual Comparison - US",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-us/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 102,
+    "name": "VLSI and Embedded Systems (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 103,
+    "name": "What Is The Value - US",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/what-is-the-value-us/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 104,
+    "name": "Workplace Administration Skills (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/workplace-administration-skills-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 105,
+    "name": "Workplace Health and Safety (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/workplace-health-and-safety-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 106,
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 107,
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 108,
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 109,
+    "name": "Apache Hadoop Extensions (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 110,
+    "name": "Apache HBase (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 111,
+    "name": "Apache Hive (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 112,
+    "name": "Apache Kafka (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 113,
+    "name": "Apache Pig (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 114,
+    "name": "Apache Spark (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 115,
+    "name": "ASP .NET with C# (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 116,
+    "name": "ASP.NET 4.5",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 117,
+    "name": "Assessment and Development Center Exercises",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "E"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 118,
+    "name": "Automata - Fix (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 119,
+    "name": "Automata - SQL (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 120,
+    "name": "Automata (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 121,
+    "name": "Docker (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/docker-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 122,
+    "name": "Dojo (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/dojo-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 123,
+    "name": "Drupal (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 124,
+    "name": "DSI v1.1 Interpretation Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 125,
+    "name": "Econometrics (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 126,
+    "name": "Economics (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/economics-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 127,
+    "name": "Electrical and Electronics Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 128,
+    "name": "Electrical Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/electrical-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 129,
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 130,
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 131,
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 132,
+    "name": "English Comprehension (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 133,
+    "name": "HiPo Assessment Report 1.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 134,
+    "name": "HiPo Assessment Report 2.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 135,
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 136,
+    "name": "Housekeeping (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 137,
+    "name": "HTML/CSS (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 138,
+    "name": "HTML5 (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 139,
+    "name": "Human Resources (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 140,
+    "name": "IBM DataStage (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 141,
+    "name": "IBM Sterling Order Management System (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 142,
+    "name": "Industrial Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 143,
+    "name": "Informatica (Architecture) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 144,
+    "name": "Informatica (Developer) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 145,
+    "name": "Jenkins (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 146,
+    "name": "Job Control Language (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 147,
+    "name": "jQuery (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/jquery-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 148,
+    "name": "Kubernetes (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 149,
+    "name": "Linux Administration (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 150,
+    "name": "Linux Operating System",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 151,
+    "name": "Linux Programming (General)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 152,
+    "name": "Load Runner (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 153,
+    "name": "Management Scenarios",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 154,
+    "name": "Managerial Scenarios Candidate Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 155,
+    "name": "Managerial Scenarios Narrative Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 156,
+    "name": "Managerial Scenarios Profile Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 157,
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 158,
+    "name": "Operations Management (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/operations-management-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 159,
+    "name": "OPQ Candidate Plus Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-plus-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 160,
+    "name": "OPQ Candidate Report 2.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-report-2-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 161,
+    "name": "OPQ Emotional Intelligence Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 162,
+    "name": "OPQ Leadership Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 163,
+    "name": "OPQ Manager Plus Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 164,
+    "name": "OPQ Manager Plus Report 2.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 165,
+    "name": "OPQ Maximising your Learning Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 166,
+    "name": "OPQ MQ Sales Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-mq-sales-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 167,
+    "name": "OPQ Premium Plus Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 168,
+    "name": "OPQ Premium Plus Report 2.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 169,
+    "name": "Struts (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/struts-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 170,
+    "name": "SVAR - Spoken English (AUS)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-aus/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 171,
+    "name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 172,
+    "name": "SVAR - Spoken English (U.K.)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-u-k/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 173,
+    "name": "SVAR - Spoken English (US)  (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-us-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 174,
+    "name": "SVAR - Spoken French (Canadian) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 175,
+    "name": "SVAR - Spoken French (European) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-european-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 176,
+    "name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 177,
+    "name": "SVAR - Spoken Spanish (North American) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 178,
+    "name": "Swing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/swing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 179,
+    "name": "Tableau (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 180,
+    "name": "Telecommunications Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/telecommunications-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 181,
+    "name": "Verify - G+",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-g/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 182,
+    "name": "Verify - General Ability Screen",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-general-ability-screen/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 183,
+    "name": "Verify - Inductive Reasoning (2014)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 184,
+    "name": "Verify - Numerical Ability",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 185,
+    "name": "Verify - Technical Checking - Next Generation",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 186,
+    "name": "Verify - Verbal Ability - Next Generation",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 187,
+    "name": "Verify - Working with Information",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-working-with-information/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 188,
+    "name": "Verify G+ - Ability Test Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-ability-test-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 189,
+    "name": "Verify G+ - Candidate Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-candidate-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 190,
+    "name": "Verify Interactive Ability Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-ability-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 191,
+    "name": "Verify Interactive G+ Candidate Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 192,
+    "name": "Verify Interactive G+ Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 193,
+    "name": "Enterprise Java Beans (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 194,
+    "name": "Enterprise Leadership Report 1.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 195,
+    "name": "Enterprise Leadership Report 2.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 196,
+    "name": "Entry Level Cashier Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 197,
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "C"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 198,
+    "name": "Entry Level Customer Service (General) Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 199,
+    "name": "Entry Level Hotel Front Desk Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 200,
+    "name": "Entry Level Sales Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 201,
+    "name": "Entry Level Technical Support Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "C"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 202,
+    "name": "ETL Testing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 203,
+    "name": "Executive Scenarios",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 204,
+    "name": "Executive Scenarios Narrative Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 205,
+    "name": "Instrumentation Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/instrumentation-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 206,
+    "name": "Interpersonal Communications",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 207,
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 208,
+    "name": "iOS Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ios-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 209,
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 210,
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 211,
+    "name": "Java 8 (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 212,
+    "name": "Java Design Patterns (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/java-design-patterns-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 213,
+    "name": "Java Frameworks (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/java-frameworks-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 214,
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 215,
+    "name": "Java Web Services (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/java-web-services-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 216,
+    "name": "JavaScript (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 217,
+    "name": "OPQ Profile Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-profile-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 218,
+    "name": "OPQ Team Impact Group Development Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 219,
+    "name": "OPQ Team Impact Individual Development Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 220,
+    "name": "OPQ Team Impact Selection Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-selection-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 221,
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 222,
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 223,
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 224,
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 225,
+    "name": "OPQ Universal Competency Report 1.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 226,
+    "name": "OPQ Universal Competency Report 2.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 227,
+    "name": "OPQ User and Managers Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-and-managers-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 228,
+    "name": "OPQ User Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 229,
+    "name": "Fundamentals of Chemistry (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 230,
+    "name": "Fundamentals of Physics (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 231,
+    "name": "General Diseases (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 232,
+    "name": "Geoinformatics Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 233,
+    "name": "Geoscience Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 234,
+    "name": "GIT (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/git-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 235,
+    "name": "Global Skills Assessment",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 236,
+    "name": "Graduate Scenarios",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 237,
+    "name": "Graduate Scenarios Narrative Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 238,
+    "name": "Graduate Scenarios Profile Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 239,
+    "name": "Hibernate (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 240,
+    "name": "HIPAA (Security)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 241,
+    "name": "Microsoft Windows Server 2012 Administration",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 242,
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 243,
+    "name": "Microsoft Word 365 (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S",
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 244,
+    "name": "Mineral Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 245,
+    "name": "Mining Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 246,
+    "name": "Mobility (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mobility-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 247,
+    "name": "Molecular Biology (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 248,
+    "name": "MongoDB (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 249,
+    "name": "Motivation Questionnaire MQM5",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 250,
+    "name": "MQ Candidate Motivation Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 251,
+    "name": "MQ Employee Motivation Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 252,
+    "name": "MQ Motivation Report Pack",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 253,
+    "name": "Sales Transformation Report 1.0 - Sales Manager",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 254,
+    "name": "Sales Transformation Report 2.0 - Sales Manager",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 255,
+    "name": "Salesforce Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/salesforce-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 256,
+    "name": "SAP ABAP (Advanced Level) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 257,
+    "name": "SAP ABAP (Intermediate Level) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 258,
+    "name": "SAP Basis (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-basis-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 259,
+    "name": "SAP Business Objects WebI (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-business-objects-webi-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 260,
+    "name": "SAP BW (Business Warehouse) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 261,
+    "name": "SAP HCM (Human Capital Management) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 262,
+    "name": "SAP Hybris (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-hybris-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 263,
+    "name": "SAP Materials Management (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-materials-management-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 264,
+    "name": "SAP SD (Sales and Distribution) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 265,
+    "name": "Teradata Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 266,
+    "name": "Time Management (U.S.)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 267,
+    "name": "Training Development",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/training-development/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 268,
+    "name": "Typing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/typing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 269,
+    "name": "UiPath RPA Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 270,
+    "name": "Universal Competency Framework Interview Guide",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 271,
+    "name": "Universal Competency Framework Job profiling guide",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 272,
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 273,
+    "name": "UNIX (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/unix-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 274,
+    "name": "VB.NET (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 275,
+    "name": "Verify - Deductive Reasoning",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 276,
+    "name": "Verify - Following Instructions",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 277,
+    "name": "Written English v1",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 278,
+    "name": "Written Spanish",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/written-spanish/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 279,
+    "name": "Zabbix (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 280,
+    "name": "360 Digital Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "D"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 281,
+    "name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "D",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 282,
+    "name": "Data Entry (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 283,
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 284,
+    "name": "Data Entry Numeric Split Screen - US",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 285,
+    "name": "Data Entry Ten Key Split Screen",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 286,
+    "name": "Data Science (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/data-science-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 287,
+    "name": "Data Warehousing Concepts",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 288,
+    "name": "Dependability and Safety Instrument (DSI)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 289,
+    "name": "Dermatology (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/dermatology-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 290,
+    "name": "Desktop Support (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 291,
+    "name": "Digital Advertising (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 292,
+    "name": "Digital Readiness Development Report - IC",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 293,
+    "name": "Digital Readiness Development Report - Manager",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 294,
+    "name": "MFS 360 Enterprise Leadership Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "D"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 295,
+    "name": "MFS 360 UCF Group Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "D"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 296,
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "D"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 297,
+    "name": "MFS 360 UCF Standard Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "D"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 298,
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 299,
+    "name": "Microservices (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microservices-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 300,
+    "name": "Microsoft Dynamics Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 301,
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 302,
+    "name": "Microsoft Excel 365 (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 303,
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 304,
+    "name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 305,
+    "name": "Microsoft SQL Server 2014 Programming",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 306,
+    "name": "BizTalk (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 307,
+    "name": "Business Communication (adaptive)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 308,
+    "name": "Business Communications",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/business-communications/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 309,
+    "name": "C Programming (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 310,
+    "name": "C# Programming (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 311,
+    "name": "C++ Programming (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 312,
+    "name": "Cardiology and Diabetes Management (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 313,
+    "name": "Ceramic Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 314,
+    "name": "Chemical Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 315,
+    "name": "Cisco AppDynamics (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 316,
+    "name": "Civil Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 317,
+    "name": "Cloud Computing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 318,
+    "name": "RemoteWorkQ Participant Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-participant-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 319,
+    "name": "RESTful Web Services (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/restful-web-services-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 320,
+    "name": "Retail Sales and Service Simulation",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "K",
+      "S",
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 321,
+    "name": "Reviewing Forms - US (R1)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/reviewing-forms-us-r1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 322,
+    "name": "Ruby (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ruby-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 323,
+    "name": "Ruby on Rails (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 324,
+    "name": "Sales & Service Phone Simulation",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S",
+      "B"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 325,
+    "name": "Sales & Service Phone Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "P",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 326,
+    "name": "Sales Interview Guide",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-interview-guide/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 327,
+    "name": "Sales Profiler Cards",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-profiler-cards/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 328,
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 329,
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 330,
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 331,
+    "name": "Oracle DBA (Entry Level) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 332,
+    "name": "Oracle PL/SQL (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/oracle-plsql-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 333,
+    "name": "Oracle WebLogic Server (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/oracle-weblogic-server-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 334,
+    "name": "Organic Chemistry (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/organic-chemistry-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 335,
+    "name": "Paint Technology (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/paint-technology-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 336,
+    "name": "Pediatrics (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pediatrics-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 337,
+    "name": "Pega Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pega-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 338,
+    "name": "Perl (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/perl-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 339,
+    "name": "Petrochemical Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/petrochemical-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 340,
+    "name": "Petroleum Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/petroleum-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 341,
+    "name": "Pharmaceutical Analysis (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 342,
+    "name": "Search Engine Optimization (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 343,
+    "name": "Selenium (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 344,
+    "name": "Shell Scripting (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/shell-scripting-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 345,
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 346,
+    "name": "SHL Verify Interactive \u2013 Deductive Reasoning",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 347,
+    "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 348,
+    "name": "SHL Verify Interactive G+",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-g/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 349,
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 350,
+    "name": "Siebel Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/siebel-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 351,
+    "name": "Smart Interview Live",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 352,
+    "name": "Smart Interview Live Coding",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live-coding/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 353,
+    "name": "Smart Interview On Demand",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 354,
+    "name": "Manual Testing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 355,
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 356,
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 357,
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/essential-focus-8-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 358,
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-focus-8-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 359,
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/vigilance-focus-8-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 360,
+    "name": "Marketing (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 361,
+    "name": "Maven (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/maven-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 362,
+    "name": "Mechanical Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 363,
+    "name": "Mechatronics Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/mechatronics-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 364,
+    "name": "Medical Terminology (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 365,
+    "name": "Metallurgical Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 366,
+    "name": "Automata Data Science (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 367,
+    "name": "Automata Data Science Pro (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 368,
+    "name": "Automata Front End",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 369,
+    "name": "Automata Pro (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 370,
+    "name": "Automata Selenium",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 371,
+    "name": "Automation Anywhere RPA Development (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 372,
+    "name": "Automotive Engineering (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/automotive-engineering-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 373,
+    "name": "Basic Biology (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/basic-biology-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 374,
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S",
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 375,
+    "name": "Basic Statistics (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 376,
+    "name": "Biochemistry (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/biochemistry-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 377,
+    "name": "Biotech Lab Techniques (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/biotech-lab-techniques-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  }
+]

@@ -1,0 +1,1685 @@
+[
+  {
+    "s_no": 1,
+    "name": "Account Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P",
+      "A",
+      "B"
+    ]
+  },
+  {
+    "s_no": 2,
+    "name": "Administrative Professional - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "s_no": 3,
+    "name": "Agency Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/agency-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 4,
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 5,
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 6,
+    "name": "Bank Administrative Assistant - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "s_no": 7,
+    "name": "Bank Collections Agent - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/bank-collections-agent-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 8,
+    "name": "Bank Operations Supervisor - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 9,
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "P",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "s_no": 10,
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "S",
+      "K",
+      "B",
+      "A"
+    ]
+  },
+  {
+    "s_no": 11,
+    "name": "Branch Manager - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/branch-manager-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 12,
+    "name": "Cashier Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/cashier-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "A",
+      "P"
+    ]
+  },
+  {
+    "s_no": 13,
+    "name": "Claims/Operations Supervisor Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/claimsoperations-supervisor-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "S",
+      "A",
+      "B"
+    ]
+  },
+  {
+    "s_no": 14,
+    "name": "Contact Center Customer Service + 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "C",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 15,
+    "name": "Contact Center Customer Service 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S",
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 16,
+    "name": "Contact Center Manager - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-manager-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 17,
+    "name": "Contact Center Sales & Service + 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "B",
+      "C",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "s_no": 18,
+    "name": "Contact Center Sales & Service 8.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S",
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 19,
+    "name": "Contact Center Team Lead/Coach - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 20,
+    "name": "Contact Centre Agent Solution - UK",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/contact-centre-agent-solution-uk/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 21,
+    "name": "Customer Service - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 22,
+    "name": "Customer Service - Short Form - UK",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-short-form-uk/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 23,
+    "name": "Customer Service with Sales - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-with-sales-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 24,
+    "name": "Director - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/director-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 25,
+    "name": "District/Regional Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/districtregional-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 26,
+    "name": "Entry Level Cashier 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "P",
+      "A"
+    ]
+  },
+  {
+    "s_no": 27,
+    "name": "Entry Level Cashier 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 28,
+    "name": "Entry Level Customer Service 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 29,
+    "name": "Entry Level Customer Service 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 30,
+    "name": "Entry Level Customer Service 7.1 (South Africa)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 31,
+    "name": "Entry level Sales 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 32,
+    "name": "Entry level Sales 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 33,
+    "name": "Entry Level Sales Sift Out 7.1",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P",
+      "B"
+    ]
+  },
+  {
+    "s_no": 34,
+    "name": "Event Sales Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/event-sales-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S",
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 35,
+    "name": "Executive - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/executive-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 36,
+    "name": "Financial Professional - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 37,
+    "name": "Financial Services Representative Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/financial-services-representative-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 38,
+    "name": "Front Desk Associate Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/front-desk-associate-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 39,
+    "name": "Gaming Associate Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/gaming-associate-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 40,
+    "name": "Gaming Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/gaming-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S",
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "s_no": 41,
+    "name": "General Entry Level - All Industries 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 42,
+    "name": "General Entry Level - All Industries 7.1 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-1-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 43,
+    "name": "General Entry Level - All Industries 7.1(Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-1%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 44,
+    "name": "General Entry Level \u2013 Data Entry 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "K"
+    ]
+  },
+  {
+    "s_no": 45,
+    "name": "Graduate + 8.0 Job Focused Assessment",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 46,
+    "name": "Graduate 7.1 Job Focused Assessment",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/graduate-7-1-job-focused-assessment/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 47,
+    "name": "Graduate 8.0 Job Focused Assessment",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "B"
+    ]
+  },
+  {
+    "s_no": 48,
+    "name": "Guest Service Team 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/guest-service-team-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 49,
+    "name": "Guest Services Associate Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/guest-services-associate-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 50,
+    "name": "Healthcare Aide 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-aide-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 51,
+    "name": "Healthcare Call Center Agent Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-call-center-agent-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 52,
+    "name": "Healthcare Service Associate Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-service-associate-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 53,
+    "name": "Healthcare Support Specialist Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-support-specialist-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 54,
+    "name": "Home Health Aide Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/home-health-aide-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 55,
+    "name": "Hospitality Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/hospitality-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "s_no": 56,
+    "name": "Host Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/host-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 57,
+    "name": "Industrial - Entry Level 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 58,
+    "name": "Industrial - Entry Level 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 59,
+    "name": "Industrial - Entry Level 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 60,
+    "name": "Industrial - Professional and Skilled 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "s_no": 61,
+    "name": "Industrial - Semi-skilled 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 62,
+    "name": "Industrial - Semi-skilled 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 63,
+    "name": "Industrial Professional and Skilled 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "s_no": 64,
+    "name": "Industrial Professional and Skilled 7.1 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-1-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "s_no": 65,
+    "name": "Installation and Repair Technician Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/installation-and-repair-technician-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 66,
+    "name": "Insurance Account Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/insurance-account-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 67,
+    "name": "Insurance Administrative Assistant Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/insurance-administrative-assistant-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 68,
+    "name": "Insurance Agent Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/insurance-agent-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 69,
+    "name": "Insurance Director Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/insurance-director-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 70,
+    "name": "Insurance Sales Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/insurance-sales-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 71,
+    "name": "Manager - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 72,
+    "name": "Manager + 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-0-solution-3955/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 73,
+    "name": "Manager + 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-solution-4242/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 74,
+    "name": "Manager + 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-%28international%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 75,
+    "name": "Manager 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 76,
+    "name": "Manager 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 77,
+    "name": "Manager 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-1-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 78,
+    "name": "Manager 8.0 JFA",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "s_no": 79,
+    "name": "Manager 8.0+ JFA",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "s_no": 80,
+    "name": "Manufacturing Production Team Member",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manufacturing-production-team-member/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "s_no": 81,
+    "name": "Manufacturing Skilled Maintenance Worker",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/manufacturing-skilled-maintenance-worker/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "s_no": 82,
+    "name": "Network Engineer/Analyst Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/network-engineeranalyst-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "S",
+      "K",
+      "B",
+      "A"
+    ]
+  },
+  {
+    "s_no": 83,
+    "name": "Nurse Leader Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/nurse-leader-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S",
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 84,
+    "name": "Nurse Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/nurse-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "A",
+      "B"
+    ]
+  },
+  {
+    "s_no": 85,
+    "name": "Nursing Assistant Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/nursing-assistant-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 86,
+    "name": "Personal Banker - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/personal-banker-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 87,
+    "name": "Phone Banker - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/phone-banker-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 88,
+    "name": "Prep/Line Cook Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/prepline-cook-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 89,
+    "name": "Professional + 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 90,
+    "name": "Professional + 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 91,
+    "name": "Professional + 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 92,
+    "name": "Professional 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 93,
+    "name": "Professional 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution-4247/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "B"
+    ]
+  },
+  {
+    "s_no": 94,
+    "name": "Professional 8.0 JFA",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/professional-8-0-jfa/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "s_no": 95,
+    "name": "Professional/Individual Contributor - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/professionalindividual-contributor-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 96,
+    "name": "Project Manager - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/project-manager-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 97,
+    "name": "Proof Operator - Processing Specialist -Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/proof-operator-processing-specialist-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ]
+  },
+  {
+    "s_no": 98,
+    "name": "Reservation Agent Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/reservation-agent-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "P",
+      "S",
+      "B"
+    ]
+  },
+  {
+    "s_no": 99,
+    "name": "Restaurant Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/restaurant-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 100,
+    "name": "Restaurant Supervisor Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/restaurant-supervisor-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 101,
+    "name": "Retail Consultant Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/retail-consultant-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 102,
+    "name": "Retail Manager w/ Sales Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/retail-manager-w-sales-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 103,
+    "name": "Retail Sales Associate Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/retail-sales-associate-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 104,
+    "name": "Sales Director Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-director-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 105,
+    "name": "Sales Engineer Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-engineer-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 106,
+    "name": "Sales Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 107,
+    "name": "Sales Professional 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-professional-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "B"
+    ]
+  },
+  {
+    "s_no": 108,
+    "name": "Sales Professional 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-professional-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 109,
+    "name": "Sales Professional Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-professional-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 110,
+    "name": "Sales Representative Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 111,
+    "name": "Sales Supervisor Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-supervisor-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 112,
+    "name": "Sales Support Specialist Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 113,
+    "name": "Senior Insurance Agent Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/senior-insurance-agent-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 114,
+    "name": "Senior Sales Professional Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/senior-sales-professional-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 115,
+    "name": "Server Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/server-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "A",
+      "P"
+    ]
+  },
+  {
+    "s_no": 116,
+    "name": "Service Associate Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/service-associate-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 117,
+    "name": "Service Supervisor Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/service-supervisor-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 118,
+    "name": "Stock Clerk Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/stock-clerk-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 119,
+    "name": "Store Manager 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 120,
+    "name": "Store Manager 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 121,
+    "name": "Store Manager 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-7-1-%28international%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "B"
+    ]
+  },
+  {
+    "s_no": 122,
+    "name": "Store Manager Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/store-manager-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 123,
+    "name": "Supervisor - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "S"
+    ]
+  },
+  {
+    "s_no": 124,
+    "name": "Supervisor 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "s_no": 125,
+    "name": "Supervisor 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 126,
+    "name": "Supervisor 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-7-1-%28international%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "P",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "s_no": 127,
+    "name": "Support Associate Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/support-associate-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 128,
+    "name": "Support Supervisor Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/support-supervisor-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "P",
+      "S",
+      "B"
+    ]
+  },
+  {
+    "s_no": 129,
+    "name": "Technical Sales Associate Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 130,
+    "name": "Technician/Technologist Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/techniciantechnologist-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 131,
+    "name": "Technology Professional 8.0 Job Focused Assessment",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 132,
+    "name": "Telenurse Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/telenurse-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "s_no": 133,
+    "name": "Teller 7.0",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/teller-7-0/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 134,
+    "name": "Teller with Sales - Short Form",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/teller-with-sales-short-form/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "s_no": 135,
+    "name": "Transcriptionist Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/transcriptionist-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "s_no": 136,
+    "name": "Workplace Safety - Individual 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 137,
+    "name": "Workplace Safety - Individual 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 138,
+    "name": "Workplace Safety - Team 7.0 Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B"
+    ]
+  },
+  {
+    "s_no": 139,
+    "name": "Workplace Safety - Team 7.1 (Americas)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 140,
+    "name": "Workplace Safety - Team 7.1 (International)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "s_no": 141,
+    "name": "Workplace Safety Solution",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-solution/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "B",
+      "P"
+    ]
+  }
+]

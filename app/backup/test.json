@@ -1,0 +1,51 @@
+[
+  {
+    "s_no": 1,
+    "name": "Global Skills Development Report",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 2,
+    "name": ".NET Framework 4.5",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 3,
+    "name": ".NET MVC (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  },
+  {
+    "s_no": 4,
+    "name": ".NET MVVM (New)",
+    "link": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_available": "No",
+    "adaptive_irt": "No",
+    "keys": [
+      "K"
+    ],
+    "flags_fixed": true
+  }
+]
