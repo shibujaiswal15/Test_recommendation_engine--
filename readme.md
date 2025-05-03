@@ -57,7 +57,7 @@ A smart web-based system that recommends SHL assessments based on natural langua
 
 ### 1️⃣ Frontend (Web UI)
 
-- Open the [frontend site](https://shl-recommendation-system-4b7i71ru6-shibu-kumaris-projects.vercel.app/)
+- Open the [frontend site](https://shl-recommendation-system-as30c3ro2-shibu-kumaris-projects.vercel.app)
 - Enter a prompt
 - Set how many assessments to recommend (1–20)
 - Click "Recommend" and view clean results in a table
