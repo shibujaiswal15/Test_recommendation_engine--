@@ -8,7 +8,7 @@ A smart web-based system that recommends SHL assessments based on natural langua
 
 ## 🌐 Live Links
 
-- 💻 **Frontend App**: [https://shl-recommendation-system-4b7i71ru6-shibu-kumaris-projects.vercel.app/]
+- 💻 **Frontend App**: [https://shl-recommendation-system-as30c3ro2-shibu-kumaris-projects.vercel.app]
 - 📱 **API Endpoint**: [https://shl-recommendation-engine-hnys.onrender.com/recommend](https://shl-recommendation-engine-hnys.onrender.com/recommend)
 
 ---
